@@ -3,4 +3,4 @@
 # Скриншот
 <img src="https://github.com/rndn-labs/Two-Dimensional-Array-Counter/blob/master/assets/screenshot.PNG" alt="image" border="0"></img>
 # Загрузить
-<a href="https://github.com/rndn-labs/Two-Dimensional-Array-Counter/blob/master/assets/release.PNG">Здесь</a>
+<a href="https://github.com/rndn-labs/Two-Dimensional-Array-Counter/releases">Здесь</a>
